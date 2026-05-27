@@ -1,1 +1,17 @@
+## Testing for EN.535.737 - Module 1 Assignment - 5/26/26
 
+## Problem 1 - Coding Setup
+    # 1. Make username at GitHub and share with instructor
+            # username is mei-singer-516
+            # emailed to instructor 5/26/26
+
+            print('Hello, World. This is Test #1 using Python.')
+            a = 10
+            b = 6
+            c = a + b
+            d = a * b
+
+            print('Value of a is:',a)
+            print('Value of b is:',b)
+            print('Value of a + b = c is:',c)
+            print('Value of a * b = d is:',d)
